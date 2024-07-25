@@ -1,6 +1,6 @@
-package com.api.viacep.classes;
+package com.api.atividadeCRUD.classes;
 
-    import com.google.gson.Gson;
+import com.google.gson.Gson;
 
 import lombok.Data;
 import okhttp3.OkHttpClient;
